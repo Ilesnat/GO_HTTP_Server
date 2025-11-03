@@ -1,4 +1,4 @@
-# Go File http server
+# Go Http File server
 
 A simple HTTP file server written in Go that allows you to:
 
